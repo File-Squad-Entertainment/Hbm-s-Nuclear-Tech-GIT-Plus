@@ -1,17 +1,12 @@
-# HBM's Nuclear Tech Mod for Minecraft 1.7.10
-
+# Ремейк русский, но мне лень переводить README.md и доделывать перевод, это лишь порт. Но если будет время превращу в ремейк.
+# HBM's Nuclear Tech Mod for Minecraft
 [NTM on Modrinth](https://modrinth.com/mod/ntm)
 
 [NTM on CurseForge](https://minecraft.curseforge.com/projects/hbms-nuclear-tech-mod?gameCategorySlug=mc-mods&projectID=235439)
 
 [Official NTM Wiki](https://nucleartech.wiki/wiki/Main_Page)
 
-**This is for 1.7.10!** For 1.12, check out these projects:
-
-* NTM Reloaded: https://github.com/TheOriginalGolem/Hbm-s-Nuclear-Tech-GIT/releases
-* NTM Extended Edition (Alcater): https://github.com/Alcatergit/Hbm-s-Nuclear-Tech-GIT/releases
-
-For 1.18, try Martin's remake: https://codeberg.org/MartinTheDragon/Nuclear-Tech-Mod-Remake/releases
+**This is for 1.7.10!** In the future the mod will be rewritten for 1.12.2
 
 ## Downloading pre-compiled versions from GitHub
 
